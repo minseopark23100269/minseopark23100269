@@ -1,4 +1,17 @@
-## Hi there 👋
+#**Minseo Park**
+
+Hi i am minseo park, a sophomore studying computer science at SEOULTECH.
+
+-I want to create my own amazing projects through GitHub.
+
+-I want to improve my coding skills.
+
+
+
+
+
+
+
 
 <!--
 **minseopark23100269/minseopark23100269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
