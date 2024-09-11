@@ -3,9 +3,9 @@
 
 Hi i am minseo park. I am a sophomore studying computer science at SEOULTECH.
 
--I want to create my own amazing projects through GitHub.
+- I want to create my own amazing projects through GitHub.
 
--I want to improve my coding skills.
+- I want to improve my coding skills.
 
 
 
