@@ -1,7 +1,7 @@
 # **Minseo Park**
 ## about me
 
-Hi i am minseo park. I am a sophomore studying computer science at SEOULTECH.
+Hi i am minseo park😄. I am a sophomore studying computer science at SEOULTECH.
 
 - I want to create my own amazing projects through GitHub.
 
